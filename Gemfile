@@ -22,6 +22,8 @@ end
 
 group :development do
   gem 'rspec-rails', '2.13.0'
+  gem 'taps'
+  gem 'rvm'
 end
 
 group :test do

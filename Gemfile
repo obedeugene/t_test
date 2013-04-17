@@ -24,7 +24,7 @@ group :test do
   gem 'rspec', '2.13.0'
 end
 
-gem 'jquery-rails'
+# gem 'jquery-rails'
 
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
